@@ -1,0 +1,26 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url(https://img.freepik.com/free-vector/green-grass-background-realistic-style_23-2148220571.jpg?t=st=1678811562~exp=1678812162~hmac=42562944c51ac730793c6057a3d1aedb9f6ed504c40d889979a7a54a02e2ff89);
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-size: cover;
+}
+
+h1 {
+    color: goldenRod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    background: goldenrod;
+    color: blue;
+    border-radius: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding: 5px 3px;
+    border: none;
+}
